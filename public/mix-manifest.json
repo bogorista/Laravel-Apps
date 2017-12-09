@@ -1,0 +1,17 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/master/css/bootstrap.css": "/master/css/bootstrap.css",
+    "/master/css/fontawesome.css": "/master/css/fontawesome.css",
+    "/master/css/ionicons.css": "/master/css/ionicons.css",
+    "/master/css/custom.css": "/master/css/custom.css",
+    "/master/css/admin.css": "/master/css/admin.css",
+    "/master/css/skins.css": "/master/css/skins.css",
+    "/master/css/pace.css": "/master/css/pace.css",
+    "/master/css/base.css": "/master/css/base.css",
+    "/master/css/bold.css": "/master/css/bold.css",
+    "/master/css/pnotify.css": "/master/css/pnotify.css",
+    "/master/css/ladda.css": "/master/css/ladda.css",
+    "/master/js/spin.js": "/master/js/spin.js",
+    "/master/js/ladda.js": "/master/js/ladda.js"
+}
